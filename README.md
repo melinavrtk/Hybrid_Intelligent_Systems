@@ -27,3 +27,10 @@ This repository contains implementations of Hybrid Intelligent Systems, demonstr
 * **Deep Learning Mathematics:** Building forward/backward propagation and advanced optimizers (Adam) purely with linear algebra.
 * **Frameworks & Libraries:** `Python`, `numpy`, `scikit-fuzzy`, `scipy.optimize`, `TensorFlow`, `Keras`, `matplotlib`.
 
+## 📌 Acknowledgments & Context
+The mathematical foundations and initial implementations for these projects were developed as part of my undergraduate coursework at the **University of West Attica (Biomedical Engineering)**. 
+
+The current repository represents a modernized evolution of those academic assignments. The original MATLAB/procedural scripts have been translated, rewritten into Object-Oriented Python, vectorized for performance, and structured into professional pipelines to bridge the gap between academic theory and industry standards.
+
+---
+*Curated, refactored, and optimized by a final-year Biomedical Engineering student (University of West Attica), specializing in AI and Medical Data Science.*
